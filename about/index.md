@@ -3,7 +3,7 @@ layout: page
 title: About the Jekyll Theme
 image:
   feature: abstract-5.jpg
-comments: true
+comments: false
 modified: 2016-02-01
 ---
 
