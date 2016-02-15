@@ -12,17 +12,10 @@ url:
 owner:
   name:           Abraham
   avatar:         avatar.jpg
-<<<<<<< HEAD
   bio:            "A Software Engineer that likes to learn as much as he can about anything. Even Cooking"
   email:          herrera190@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        herrera190
-=======
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
->>>>>>> refs/remotes/origin/master
   facebook:       
   github:         
   stackexchange:  
