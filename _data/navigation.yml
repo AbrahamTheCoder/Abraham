@@ -1,0 +1,14 @@
+# Menu navigation links
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+#- title: External Link
+<<<<<<< HEAD
+#  url: http://mademistakes.com
+
+- title: Blog
+  url: /blog/
+=======
+#  url: http://mademistakes.com
+>>>>>>> refs/remotes/origin/master
