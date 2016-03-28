@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-02-18T17:50:48+00:00</updated>
+<updated>2016-03-28T19:59:35+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
@@ -25,7 +25,11 @@
     <email>herrera190@gmail.com</email>
   </author>
   <content type="html">
-    
+    &lt;p&gt;Hola amigos, que tal.&lt;/p&gt;
+
+&lt;p&gt;Me presento, mi nombre es Abraham y soy Desarrollador de Software. Actualmente me encuentro desarrollando software en tecnologias de Microsoft, es decir, .NET aunque tambien estoy familiarizado en otras como Android, PHP, Ruby (muy basico por cierto), entre otras.&lt;/p&gt;
+
+&lt;p&gt;En este blog, publicare&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;/first-post/&quot;&gt;First Blog Post&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on February 15, 2016.&lt;/p&gt;
   </content>
