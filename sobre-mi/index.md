@@ -1,11 +1,12 @@
 ---
-layout: post
-title: First Post
-tags: [first post, presentacion]
+layout: page
+title: Sobre mí
 image:
-  feature: abstract-7.jpg
+  feature: abstract-5.jpg
 comments: false
+modified: 2016-06-02
 ---
+
 
 
 
@@ -22,3 +23,4 @@ Espero disfruten leerme.
 
 
 **Abraham**
+
