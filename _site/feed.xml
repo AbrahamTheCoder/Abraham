@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-02T20:51:13+01:00</updated>
+<updated>2016-06-02T20:51:14+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
@@ -49,18 +49,7 @@
     <email>herrera190@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;Hola amigos, qué tal.&lt;/p&gt;
-
-&lt;p&gt;Me presento, mi nombre es Abraham y soy Desarrollador de Software. Actualmente desarrollo software utilizando tecnologías de Microsoft, es decir, .NET aunque también estoy familiarizado en otras tecnologías como Android, PHP, Ruby (muy básico por cierto), Clouding (También muy básico), y Web.&lt;/p&gt;
-
-&lt;p&gt;Como todos que se han iniciado en sistemas, empecé dando soporte técnico y trabaje de eso durante un tiempo. Sin embargo, siempre tuve un gusto mayor la programación por lo que decidí que eso sería a lo que me dedicaría. Claro está, no he desatendido los otros rubros que existen, como las redes, que eso también me llama mucho la atención, pero al haber poco campo de desarrollo en el lugar donde vivo, me decidí por la programación.&lt;/p&gt;
-
-&lt;p&gt;En este blog, hablaré de temas relacionados a mi trabajo, experiencias con las tecnologías en las que he trabajado, publicare en algún momento proyectos personales y algunos tips de programación.
-Habrá momentos en que hable de temas que no tengan relación con la tecnología, pero ya veremos.&lt;/p&gt;
-
-&lt;p&gt;Espero disfruten leerme.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abraham&lt;/strong&gt;&lt;/p&gt;
+    
 
     &lt;p&gt;&lt;a href=&quot;/first-post/&quot;&gt;First Post&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on February 15, 2016.&lt;/p&gt;
   </content>
