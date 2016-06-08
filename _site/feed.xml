@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-08T19:12:25+01:00</updated>
+<updated>2016-06-08T23:18:07+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
@@ -25,15 +25,30 @@
     <email>herrera190@gmail.com</email>
   </author>
   <content type="html">
-    &lt;figure class=&quot;third&quot;&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;a href=&quot;http://placehold.it/1200x600.jpg&quot;&gt;&lt;img src=&quot;http://placehold.it/600x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Caption describing these three images.&lt;/figcaption&gt;
+    &lt;p&gt;Hace ya unos meses, diciembre del año pasado para ser un poco mas preciso, un compañero de la escuela de idiomas donde voy, que tambien se dedica al desarrollo de software, me hablo para saber si podria ayudarlo con un proyecto. Lo primero que le pregunte, fue de que se trataba y entonces me dijo, que era un proyecto para dispositivos Android y iOS. Me explico un poco de que se trata el proyecto y acepte ayudarlo. Ambos, no teniamos una idea sobre programacion para moviles. Yo antes habia tenido un pequeño acercamiento en programacion en Android, sin embargo no habia escrito una sola linea de codigo. Mi experiencia era cero en resumen.
+Al igual que yo, mi compañero tampoco tenia experiencia en desarrollo para moviles, pero queria echar a andar su proyecto.&lt;/p&gt;
+
+&lt;h3 id=&quot;decidiendo-en-donde-programar&quot;&gt;Decidiendo en donde programar.&lt;/h3&gt;
+
+&lt;p&gt;El tiempo para terminar el proyecto era muy corto, 2 meses maximo, por lo que teniamos que buscar una plataforma que nos ayude a terminar el proyecto en ambos sistemas operativos. Al principio, ya nos habiamos dado a la idea de tener que aprender un nuevo lenguaje, XCode y Java. Mi compañero tenia una Mac para trabajar, por lo que el se quedo con la programacion en iOS, creo que ya se imaginan quien se quedo con la programacion en Android, verdad?. 
+Terminado eso, empezamos a documentarnos lo mas rapido posible. No teniamos mucho tiempo para ello. Mientras nos documentabamos, empezamos a crear algunas funciones y ejemplos para el diseño de la app. 
+Mi compañero tenia mas carga de trabajo, ya que el tenia que crear la estructura de la base de datos que utilizariamos. 
+Mientras el trabajaba en eso, decidi buscar otro IDEs. Ya que ambos nos especializamos en programacion C# y web, empece a buscar IDEs compatibles con Android y iOS, mientras seguia documentandome en Java (de nuevo). 
+Despues de 2 semanas buscando, documentandome y haciendo ejemplos en Android Studio, me tope con un IDE que respondia a nuestras plegarias.&lt;/p&gt;
+
+&lt;h3 id=&quot;xamarin-studio&quot;&gt;Xamarin Studio&lt;/h3&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Hace ya unos meses, diciembre del año pasado para ser un poco mas preciso, un compañero de la escuela de idiomas donde voy, que tambien se dedica al desarrollo de software, me hablo para saber si podria ayudarlo con un proyecto. Lo primero que le pregunte, fue de que se trataba y entonces me dijo, que era un proyecto para dispositivos Android y iOS. Me explico un poco de que se trata el proyecto y acepte ayudarlo. Ambos, no teniamos una idea sobre programacion para moviles. Yo antes habia tenido un pequeño acercamiento en programacion en Android, sin embargo no habia escrito una sola linea de codigo. Mi experiencia era cero en resumen.
-Al igual que yo, mi compañero tampoco tenia experiencia en desarrollo para moviles, pero queria echar a andar su proyecto.&lt;/p&gt;
+&lt;p&gt;Xamarin Studio fue ese IDE que respondia a nuestras plegarias. Xamarin combina tecnologia .NET (algo a la que estabamos acostumbrados) con Android y iOS. ¿Qué significa esto? Que podiamos usar codigo C# para nuestras funciones y metodos, es decir, cross-platform, que lo que codificaramos se convertiria en codigo nativo para Android y iOS. Una verdadera maravilla, ya que nos ahorraria tiempo en el backend de la aplicacion, dejando solamente a cada uno construir la interfaz segun los estandares de cada plataforma.&lt;/p&gt;
+
+&lt;p&gt;Apenas conocimos el IDE, empezamos a revisarlo haciendo ejemplos y documentandonos para las interfaces de cada plataforma.&lt;/p&gt;
+
+&lt;h3 id=&quot;los-problemas&quot;&gt;Los Problemas&lt;/h3&gt;
+
 
     &lt;p&gt;&lt;a href=&quot;/app-android/&quot;&gt;Mi Experiencia con Android.&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on May 26, 2016.&lt;/p&gt;
   </content>
