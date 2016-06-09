@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-08T23:33:01+01:00</updated>
+<updated>2016-06-09T14:59:02+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
@@ -36,7 +36,7 @@ Mi compañero tenia mas carga de trabajo, ya que el tenia que crear la estructur
 Mientras el trabajaba en eso, decidi buscar otro IDEs. Ya que ambos nos especializamos en programacion C# y web, empece a buscar IDEs compatibles con Android y iOS, mientras seguia documentandome en Java (de nuevo). 
 Despues de 2 semanas buscando, documentandome y haciendo ejemplos en Android Studio, me tope con un IDE que respondia a nuestras plegarias.&lt;/p&gt;
 
-&lt;h3 id=&quot;xamarin-studio&quot;&gt;Xamarin Studio&lt;/h3&gt;
+&lt;h3 id=&quot;xamarin-studio&quot;&gt;Xamarin Studio.&lt;/h3&gt;
 
 &lt;figure&gt;
 	&lt;a href=&quot;&quot;&gt;&lt;img src=&quot;https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
@@ -47,7 +47,7 @@ Despues de 2 semanas buscando, documentandome y haciendo ejemplos en Android Stu
 
 &lt;p&gt;Apenas conocimos el IDE, empezamos a revisarlo haciendo ejemplos y documentandonos para las interfaces de cada plataforma.&lt;/p&gt;
 
-&lt;h3 id=&quot;los-problemas&quot;&gt;Los Problemas&lt;/h3&gt;
+&lt;h3 id=&quot;los-problemas&quot;&gt;Los Problemas.&lt;/h3&gt;
 
 
     &lt;p&gt;&lt;a href=&quot;/app-android/&quot;&gt;Mi Experiencia con Android.&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on May 26, 2016.&lt;/p&gt;

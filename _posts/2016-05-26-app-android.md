@@ -19,7 +19,7 @@ Mi compañero tenia mas carga de trabajo, ya que el tenia que crear la estructur
 Mientras el trabajaba en eso, decidi buscar otro IDEs. Ya que ambos nos especializamos en programacion C# y web, empece a buscar IDEs compatibles con Android y iOS, mientras seguia documentandome en Java (de nuevo). 
 Despues de 2 semanas buscando, documentandome y haciendo ejemplos en Android Studio, me tope con un IDE que respondia a nuestras plegarias.
 
-###Xamarin Studio
+###Xamarin Studio.
 
 <figure>
 	<a href=""><img src="https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png" alt=""></a>
@@ -30,5 +30,5 @@ Xamarin Studio fue ese IDE que respondia a nuestras plegarias. Xamarin combina t
 
 Apenas conocimos el IDE, empezamos a revisarlo haciendo ejemplos y documentandonos para las interfaces de cada plataforma.
 
-###Los Problemas
+###Los Problemas.
 
