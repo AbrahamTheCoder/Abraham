@@ -32,3 +32,8 @@ Apenas conocimos el IDE, empezamos a revisarlo haciendo ejemplos y documentandon
 
 ### Los Problemas.
 
+Como sabran, ningun proyecto esta excento de problemas, aunque en este caso, podria decirse que son eventualidades que realentizan el avance del proyecto. 
+Como primera eventualidad, nos encontramos que el IDE no es gratuito, o al menos una parte de ello si lo es. El detalle radica en que usando la version gratuita, pone una marca de agua en la aplicacion, ademas de que solo se puede usar un numero limitado de veces al dia, por lo que necesitabamos pagar una cuota al mes para poder usar la version completa.
+Dado que el proyecto, era para un cliente en especifico de mi compañero, se tomo la decision de pagar dicha cuota, ya despues se le cobraria al cliente, me dijo.
+
+

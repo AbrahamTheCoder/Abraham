@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2016-06-09T15:18:52+01:00</updated>
+<updated>2016-06-09T16:47:42+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
@@ -48,6 +48,10 @@ Despues de 2 semanas buscando, documentandome y haciendo ejemplos en Android Stu
 &lt;p&gt;Apenas conocimos el IDE, empezamos a revisarlo haciendo ejemplos y documentandonos para las interfaces de cada plataforma.&lt;/p&gt;
 
 &lt;h3 id=&quot;los-problemas&quot;&gt;Los Problemas.&lt;/h3&gt;
+
+&lt;p&gt;Como sabran, ningun proyecto esta excento de problemas, aunque en este caso, podria decirse que son eventualidades que realentizan el avance del proyecto. 
+Como primera eventualidad, nos encontramos que el IDE no es gratuito, o al menos una parte de ello si lo es. El detalle radica en que usando la version gratuita, pone una marca de agua en la aplicacion, ademas de que solo se puede usar un numero limitado de veces al dia, por lo que necesitabamos pagar una cuota al mes para poder usar la version completa.
+Dado que el proyecto, era para un cliente en especifico de mi compañero, se tomo la decision de pagar dicha cuota, ya despues se le cobraria al cliente, me dijo.&lt;/p&gt;
 
 
     &lt;p&gt;&lt;a href=&quot;/app-android/&quot;&gt;Mi Experiencia con Android.&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on May 26, 2016.&lt;/p&gt;
