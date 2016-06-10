@@ -4,12 +4,32 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
+<updated>2016-06-10T23:21:06+01:00</updated>
 <id>/</id>
 <author>
   <name>Abraham</name>
   <uri>/</uri>
   <email>herrera190@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Mi experiencia con Android Parte 2.]]></title>
+ <link rel="alternate" type="text/html" href="/app-android-2/" />
+  <id>/app-android-2</id>
+  <published>2016-06-10T00:00:00+01:00</published>
+  <updated>2016-06-10T00:00:00+01:00</updated>
+  <author>
+    <name>Abraham</name>
+    <uri></uri>
+    <email>herrera190@gmail.com</email>
+  </author>
+  <content type="html">
+    
+
+    &lt;p&gt;&lt;a href=&quot;/app-android-2/&quot;&gt;Mi experiencia con Android Parte 2.&lt;/a&gt; was originally published by Abraham at &lt;a href=&quot;&quot;&gt;Abraham Herrera&lt;/a&gt; on June 10, 2016.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
