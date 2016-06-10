@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi Experiencia con Android.
+title: Mi experiencia con Android.
 tags: [first post, presentacion]
 image:
   feature: android.png
@@ -44,6 +44,6 @@ Pasado eso, empezamos a construir los metodos y funciones que nos servirian. Mie
 
 Los metodos y funciones ya estan listos, el diseño ya esta validado por el cliente, por lo que ya podiamos proseguir con las interfaces de usuario.
 Una de las cosas que mas me tomo tiempo terminar y entender, fue el flujo en que el usuario se manejaria por la aplicacion.
-¿En que sentido?. Yo ya tenia mis interfaces listas y simplemente tenia que unirlas segun el flujo en que el cliente las queria.
+¿En que sentido?. Yo ya tenia mis interfaces listas y simplemente tenia que unirlas segun el flujo que debia llevar.
 Utilice "Fragments" para ello, pero como mencione, no entendia como unirlas a una actividad, o flujo en este caso. En vez de crear varias actividades concatenadas (que consumen mayor recursos y bateria) de un flujo, ligar un fragmento de dicho flujo y continuar, de esta forma cuando se termine, termina todo el flujo (actividad).
 
