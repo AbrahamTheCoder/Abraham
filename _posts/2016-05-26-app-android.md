@@ -8,7 +8,9 @@ comments: true
 ---
 
 
-Hace ya unos meses, diciembre del año pasado para ser un poco más preciso, un compañero de la escuela de idiomas donde voy, que también se dedica al desarrollo de software, me hablo para saber si podría ayudarlo con un proyecto. Lo primero que le pregunte, fue de que se trataba y entonces me dijo, que era un proyecto para dispositivos Android y iOS. Me explico un poco de que se trata el proyecto y acepte ayudarlo. Ambos, no teníamos una idea sobre programación para móviles. Antes había tenido un ligero acercamiento en programación en Android, sin embargo no había escrito una sola línea de código. Mi experiencia era cero en resumen. Al igual que yo, mi compañero tampoco tenía experiencia en desarrollo para móviles, pero quería echar a andar su proyecto.
+Hace ya unos meses, diciembre del año pasado para ser un poco más preciso, un compañero de la escuela de idiomas donde voy, que también se dedica al desarrollo de software, me hablo para saber si podría ayudarlo con un proyecto. 
+
+Lo primero que le pregunte, fue de que se trataba y entonces me dijo, que era un proyecto para dispositivos Android y iOS. Me explico un poco de que se trata el proyecto y acepte ayudarlo. Ambos, no teníamos una idea sobre programación para móviles. Antes había tenido un ligero acercamiento en programación en Android, sin embargo no había escrito una sola línea de código. Mi experiencia era cero en resumen. Al igual que yo, mi compañero tampoco tenía experiencia en desarrollo para móviles, pero quería echar a andar su proyecto.
  
 
 ### Decidiendo en donde programar.
