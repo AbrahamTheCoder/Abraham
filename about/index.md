@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre mí
+title: About me
 image:
   feature: abstract-5.jpg
 comments: false

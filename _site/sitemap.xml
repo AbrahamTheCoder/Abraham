@@ -12,10 +12,10 @@
 <loc>/404.html</loc>
 </url>
 <url>
-<loc>/posts/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>/posts/</loc>
 </url>
 <url>
 <loc>/tags/</loc>
@@ -24,9 +24,9 @@
 <loc>/theme-setup/</loc>
 </url>
 <url>
-<loc>/sobre-mi/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc>/blog/</loc>
+<loc>/about/</loc>
 </url>
 </urlset>
