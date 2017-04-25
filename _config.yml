@@ -17,7 +17,7 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: "/example" # the optional subpath of your site, e.g. "/blog"
+baseurl: "" # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
@@ -43,7 +43,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Exclude from processing.
-exclude:
+#exclude:
   #- .asset-cache
   #- .bundle
   #- .codeclimate.yml
