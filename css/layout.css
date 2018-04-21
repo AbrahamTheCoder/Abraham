@@ -325,20 +325,20 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
+.angular {
   	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: angular 2s ease;
+  	-webkit-animation: angular 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.android {
+  	width: 30%;
+  	-moz-animation: android 2s ease;
+  	-webkit-animation: android 2s ease;
+}
+.xamarin {
+  	width: 30%;
+  	-moz-animation: xamarin 2s ease;
+  	-webkit-animation: xamarin 2s ease;
 }
 .css {
   	width: 90%;
@@ -361,22 +361,27 @@ ul#nav li.current a { color: #F06000; }
     -webkit-animation: python 2s ease;
 }
 .vnet {
-    width: 50%;
+    width: 70%;
     -moz-animation: vnet 2s ease;
     -webkit-animation: vnet 2s ease;
 }
-
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+.javascript {
+    width: 55%;
+    -moz-animation: javascript 2s ease;
+    -webkit-animation: javascript 2s ease;
 }
-@-moz-keyframes illustrator {
+
+@-moz-keyframes angular {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes android {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 30%;  }
+}
+@-moz-keyframes xamarin {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -396,20 +401,24 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes vnet {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+
+@-webkit-keyframes angular {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 55%;  }
+}
+@-webkit-keyframes android {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
+}
+@-webkit-keyframes xamarin {
+  0%   { width: 0px;  }
+  100% { width: 30%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
@@ -429,9 +438,12 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes vnet {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-
+@-webkit-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 55%;  }
+}
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
