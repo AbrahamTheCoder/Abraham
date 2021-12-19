@@ -330,6 +330,11 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: angular 2s ease;
   	-webkit-animation: angular 2s ease;
 }
+.node {
+   width: 55%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
 .xamarin {
   	width: 40%;
   	-moz-animation: xamarin 2s ease;
@@ -370,6 +375,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
+@-moz-keyframes node {
+   0%   { width: 0px;  }
+   100% { width: 55%;  }
+}
 @-moz-keyframes xamarin {
   0%   { width: 0px;  }
   100% { width: 40%;  }
@@ -403,6 +412,10 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
+@-webkit-keyframes node {
+   0%   { width: 0px;  }
+   100% { width: 55%;  }
+ }
 @-webkit-keyframes xamarin {
   0%   { width: 0px;  }
   100% { width: 40%;  }
